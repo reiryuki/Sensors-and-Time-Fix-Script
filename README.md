@@ -11,7 +11,7 @@
 - Android 10 arm64 CrDroid ROM
  
 ## Installation Guide
-- Place the sensors_and_time_fix.sh file to /data/adb/post-fs-data.sh
+- Place the sensors_and_time_fix.sh file to /data/adb/post-fs-data.d
 - Change the file permissions to 0755
 - Reboot
 
